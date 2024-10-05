@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh singh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/5e40e811-1fb6-4926-9dca-2f2fc6d46200.gif">
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34323164346564326633643233633733643634643230393633663631663432322e676966](https://github.com/user-attachments/assets/50370936-49bc-49af-835f-8fa7c5a07be3)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeahsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rakeahsingh" /> </p>
 
